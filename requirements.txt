@@ -1,8 +1,8 @@
 nltk==3.8.1
-pandas==2.2.1
-scikit-learn==1.4.1.post1
-streamlit==1.21.0
-pyttsx3==2.90
-seaborn==0.12.2
+pandas==1.5.3
 PyAudio==0.2.13
+pyttsx3==2.90
+scikit-learn==1.2.2
+seaborn==0.12.2
 SpeechRecognition==3.10.0
+streamlit==1.21.0
